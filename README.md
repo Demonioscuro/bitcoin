@@ -1,5 +1,5 @@
-Bitcoin Core integration/staging tree
-=====================================
+Bitcoin Core Prueba
+===================================
 
 https://bitcoincore.org
 
